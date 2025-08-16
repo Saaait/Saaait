@@ -39,7 +39,7 @@ Fueled by coffee, curiosity, and chaotic late night coding sessions.
 
 <!-- <img src="https://via.placeholder.com/600x150.png?text=SafePaws+Animal+Welfare+System" alt="SafePaws banner" /> -->
 
-**SafePaws** is an Animal Welfare System built using **PHP** and **MySQL**.  
+**SafePaws** is an Animal Welfare System built using **HTML,** **CSS,** **JavaScript,** **PHP** and **MySQL**.  
 It was my final project for a course — and yes, it works (mostly on the first try 😼).
 
 **✨ Features:**
@@ -51,10 +51,10 @@ It was my final project for a course — and yes, it works (mostly on the first 
 
 ---
 
-🏆 KBC HackFest - Project Submission
+## 🏆 KBC HackFest - Project Submission
 
-KBC HackFest is a fun and fast-paced hackathon project built using [HTML, CSS, JavaScript].
-Created under tight deadlines — and yes, it actually works (with minimal panicking).
+**KBC-HackFest** is a fun and fast-paced hackathon project built using **HTML,** **CSS** and **JavaScript**.  
+Created under tight deadlines — and yes, it actually works (with minimal panicking 🥸).
 
 🔗 [Check out the KBC-HackFest Repo](https://github.com/Saaait/KBC-HackFest)
 
