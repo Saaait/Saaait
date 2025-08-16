@@ -2,7 +2,7 @@
 
 Just a guy who talks to computers more than people (they actually listen).  
 I break things just to fix them better — aka **developer in training** 🧠💻  
-Fueled by coffee, curiosity, and chaotic late-night coding sessions.
+Fueled by coffee, curiosity, and chaotic late night coding sessions.
 
 **Student passionate about web development and building impactful solutions.**
 
@@ -15,6 +15,23 @@ Fueled by coffee, curiosity, and chaotic late-night coding sessions.
 - Building personal projects to sharpen my problem-solving skills. 🔍
 - Exploring open-source contributions and real-world collaboration. 🤝
 - Learning software engineering best practices and clean code principles. 📐
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: PHP, HTML, CSS, JavaScript  
+- 🐬 Database: MySQL (XAMPP)  
+- 🔧 Tools: Git, GitHub, VS Code  
+
+<span align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</span>
 
 ---
 
@@ -34,20 +51,12 @@ It was my final project for a course — and yes, it works (mostly on the first 
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Languages: PHP, HTML, CSS, JavaScript  
-- 🐬 Database: MySQL (XAMPP)  
-- 🔧 Tools: Git, GitHub, VS Code  
+🏆 KBC HackFest - Project Submission
 
-<span align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</span>
+KBC HackFest is a fun and fast-paced hackathon project built using [HTML, CSS, JavaScript].
+Created under tight deadlines — and yes, it actually works (with minimal panicking).
+
+🔗 [Check out the KBC-HackFest Repo](https://github.com/Saaait/KBC-HackFest)
 
 ---
 
