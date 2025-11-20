@@ -51,6 +51,35 @@ It was my final project for a course — and yes, it works (mostly on the first 
 
 ---
 
+📇 Contact-Manager – Full-Stack CRUD Project  
+Contact-Manager is a contact management web app built using Node.js, Express, and a separate frontend.  
+Users can add, view, update, and delete contacts — all through a clean CRUD interface.
+
+✨ Features:
+- Add new contacts  
+- Edit existing contacts  
+- Delete saved contacts  
+- REST API backend  
+- Fully separated frontend and backend
+
+🔗 [Check out the Contact-Manager Repo](https://github.com/Saaait/Contact-Manager)
+
+---
+
+🎬 Movie-App – React Frontend Project  
+Movie-App is a movie browsing web application built using React.  
+It fetches real movie data from an external API and displays it with a clean and responsive UI — and yes, no backend required 🔥.
+
+✨ Features:
+- Browse trending movies  
+- Search movies by title  
+- View detailed movie information  
+- Fully built in React
+
+🔗 [Check out the Movie-App Repo](https://github.com/Saaait/Movie-App) 
+
+---
+
 ## 🏆 KBC HackFest - Project Submission
 
 **KBC-HackFest** is a fun and fast-paced hackathon project built using **HTML,** **CSS** and **JavaScript**.  
