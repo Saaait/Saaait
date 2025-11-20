@@ -19,19 +19,26 @@ Fueled by coffee, curiosity, and chaotic late night coding sessions.
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: PHP, HTML, CSS, JavaScript  
-- 🐬 Database: MySQL (XAMPP)  
+- 💻 Languages & Frameworks: PHP, HTML, CSS, JavaScript, React, Tailwind CSS  
+- 🚀 Backend: Node.js, Express.js  
+- 🐬 Databases: MySQL (XAMPP), MongoDB  
 - 🔧 Tools: Git, GitHub, VS Code  
 
 <span align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </span>
+
 
 ---
 
@@ -51,7 +58,7 @@ It was my final project for a course — and yes, it works (mostly on the first 
 
 ---
 
-📇 Contact-Manager – Full-Stack CRUD Project  
+## 📇 Contact-Manager – Full-Stack CRUD Project  
 Contact-Manager is a contact management web app built using Node.js, Express, and a separate frontend.  
 Users can add, view, update, and delete contacts — all through a clean CRUD interface.
 
@@ -66,7 +73,7 @@ Users can add, view, update, and delete contacts — all through a clean CRUD in
 
 ---
 
-🎬 Movie-App – React Frontend Project  
+## 🎬 Movie-App – React Frontend Project  
 Movie-App is a movie browsing web application built using React.  
 It fetches real movie data from an external API and displays it with a clean and responsive UI — and yes, no backend required 🔥.
 
