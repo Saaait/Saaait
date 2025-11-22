@@ -28,63 +28,6 @@ Fueled by coffee, curiosity, and chaotic late night coding sessions.
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </span> -->
 
-
----
-
-## 🐾 SafePaws - Completed Course Project
-
-<!-- <img src="https://via.placeholder.com/600x150.png?text=SafePaws+Animal+Welfare+System" alt="SafePaws banner" /> -->
-
-**SafePaws** is an Animal Welfare System built using **HTML,** **CSS,** **JavaScript,** **PHP** and **MySQL**.  
-It was my final project for a course — and yes, it works (mostly on the first try 😼).
-
-**✨ Features:**
-- Report lost or found pets 🐕‍🦺
-- Adopt or foster pets 🏡
-- Access pet care and welfare resources 📚
-
-🔗 [Check out the SafePaws Repo](https://github.com/Saaait/SafePaws-Animal-Welfare-System)
-
----
-
-## 📇 Contact-Manager – Full-Stack CRUD Project  
-Contact-Manager is a contact management web app built using Node.js, Express, and a separate frontend.  
-Users can add, view, update, and delete contacts — all through a clean CRUD interface.
-
-✨ Features:
-- Add new contacts  
-- Edit existing contacts  
-- Delete saved contacts  
-- REST API backend  
-- Fully separated frontend and backend
-
-🔗 [Check out the Contact-Manager Repo](https://github.com/Saaait/Contact-Manager)
-
----
-
-## 🎬 Movie-App – React Frontend Project  
-Movie-App is a movie browsing web application built using React.  
-It fetches real movie data from an external API and displays it with a clean and responsive UI — and yes, no backend required 🔥.
-
-✨ Features:
-- Browse trending movies  
-- Search movies by title  
-- View detailed movie information  
-- Fully built in React
-
-🔗 [Check out the Movie-App Repo](https://github.com/Saaait/Movie-App) 
-
----
-
-## 🏆 KBC HackFest - Project Submission
-
-**KBC-HackFest** is a fun and fast-paced hackathon project built using **HTML,** **CSS** and **JavaScript**.  
-Created under tight deadlines — and yes, it actually works (with minimal panicking 🥸).
-
-🔗 [Check out the KBC-HackFest Repo](https://github.com/Saaait/KBC-HackFest)
-
----
-
 <!-- ## 📈 GitHub Stats
 
 ![Saait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saaait&show_icons=true&theme=radical)
