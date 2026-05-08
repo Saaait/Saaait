@@ -4,6 +4,8 @@ Just a guy who talks to computers more than people (they actually listen).
 I break things just to fix them better — aka **developer in training** 🧠💻  
 Fueled by coffee, curiosity, and chaotic late night coding sessions.
 
+⚡Portfolio → [saaitpradhan.com.np](https://saaitpradhan.com.np/)
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Saaait.Saaait)
 -->
 ---
